@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @MaddieBats
-- 👀 I’m interested in bat acoustic monitoring with a focus on citizen science and forest research, using automated bat identification software.
-- 🌱 I’m currently learning advanced R (seewave and tuneR are my foci) as well as the AWS suite and its integration with our sound classification system. I'm also perenially trying to figure out how to upload hundreds of terrabytes of wav files from SD cards onto hard drives.
-- 💞️ I’m looking to collaborate on open hardware, political ecological approaches to monitoring technologies and other charity-sector ecological data scientists.
-- 📫 Reach me at mdavis@bats.org.uk / www.linkedin.com/in/madeline-davis-33a578288/
+👋 @MaddieBats 
+
+☺️ I am an ecologist-turned-tech girl working on bat bioacoustics
+
+🦇 I am the Senior Science Projects Officer for the Bat Conservation Trust, within our Science and Monitoring team
+
+👀 I work on our Sound Classification System, which is a pipeline designed to take extremely large amounts of passive acoustic monitoring data of UK bats and, through a machine-learning driven automated classifier of bat echolocation, quanitify species presence across the UK
+
+💻 My competencies are in R, SQL, Python, Bash, and the AWS ecosystem alongside traditional ecological skills
+
+💞️ I’m looking to collaborate on open hardware, political ecological approaches to monitoring technologies and other charity-sector ecological data scientists.
+
+📫 Reach me at mdavis@bats.org.uk / www.linkedin.com/in/madeline-davis-33a578288/
+
 
 <!---
 MaddieBats/MaddieBats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
