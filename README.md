@@ -1,5 +1,6 @@
-<img width="300" height="300" alt="image" class="centre" src="https://github.com/user-attachments/assets/3efa65d7-b708-48fa-abe9-32967a3c1a6b" />
-
+<p align="center">
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3efa65d7-b708-48fa-abe9-32967a3c1a6b" />
+</p>
 
 
 I am the *Senior Science Projects Officer* in the Science team of the **[Bat Conservation Trust](https://www.bats.org.uk/)**. I trained as a conservation biologist and have developed into a broad-spectrum tech girl, primarily working on our Sound Classification System, a machine learning-driven ecosystem of tools for performing rapid, automated classification to species of UK bat echolocation calls. Last year we processed tens of millions of bat noises, giving a new depth to our understanding of UK bat species dynamics.
