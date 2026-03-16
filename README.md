@@ -24,22 +24,26 @@ I have over a decade of experience in using R and in the last five years have de
 > And then something occured to us. The climate changed. We couldn't breathe. It grew terribly cold. Far too cold for us. Everthing we touched was poisonous. Noxious gases and thin toxic airs flooded our oceanic zone. Some said we had brought it on ourselves, that all our activity had backfired, that we had destroyed our environment by an accident we had provoked. There were rumours of betrayal and sabotage, whisperings of alien invasion and mutant beings from another ship.
 >  
 > Only a few of us survived the break. Conditions were so terrible that many of those who did pull through wished they had died. We mutated to such an extent that we were unrecognizable to ourselves, banding together in units of a kind which, like everything, had been unthinkable before. We found ourselves working as slave components of systems whose scales and complexities we could not comprehend. Were we their parasites? Were they ours? Either way we became components of our own imprisonment. To all intents and purposes, we dissapeared.
+
 *Sadie Plant, Zeros + Ones, 1997*
 
 
 > The moral is simple: only partial perspective promises objective vision. All Western cultural narratives about objectivity are allegories of the ideologies governing the relations of what we call mind and body, distance and responsibility. Feminist objectivity is about limited location and situated knowledge, not about transcendence and splitting of subject and object. It allows us to become answerable for what we learn how to see.
+
 *Donna Haraway, Situated Knowledges, 1988*
 
 
 > In the 18th century, slaves like Phillis Wheatley read poetry to prove that they were human, to prove that they weren’t furniture, to prove that they weren’t robots, to prove that they weren’t animals. In that sense, a certain idea of cybernetics has already been applied to Black subjects ever since the 18th century. I think what we get at the end of the 20th century in music technology is a point where producers kind of willingly take on the role of the cyborg—willingly take on that man-machine interface.
 > 
 > Just to explore that mutation that’s already happened to them and to accelerate them some more. Now the question is like, kind of, cyborgs for what? Well the reason is of course, to get out of here. To get out of this time here, this space now.
+
 *Kodwo Eshun, The Last Angel of History, 1995*
 
 
 > Our lot is cast with technoscience, where nothing is so sacred that it cannot be reengineered and transformed so as to widen our aperture of freedom, extending to gender and the human. To say that nothing is sacred, that nothing is transcendent or protected from the will to know, to tinker and to hack, is to say that nothing is supernatural. ‘Nature’–understood here, as the unbounded arena of science–is all there is. And so, in tearing down melancholy and illusion; the unambitious and the non-scaleable; the libidinized puritanism of certain online cultures, and Nature as an un-remakeable given, we find that our normative anti-naturalism has pushed us towards an unflinching ontological naturalism. There is nothing, we claim, that cannot be studied scientifically and manipulated technologically.
 > 
 > If nature is unjust, change nature!
+
 *Laboria Cuboniks, Xenofeminism: A Politics for Alienation, 2018*
 
 -----
