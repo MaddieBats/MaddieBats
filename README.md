@@ -12,11 +12,13 @@ My primary tech interests are around:
 * Privacy and electronic freedom
 * Weird TUIs
 
-I have over a decade of experience in using R and in the last five years have developed competencies in Python, Rust, terminal scripting, AWS microservices and their alternatives, ricing my Fedora OS, graph databasing, making strange objects with microcontrollers, a little bit of data hoarding and obsessively reading 90s cyberfeminist tracts about the possibilities of the internet and then, inevitably, getting very sad.
+I have over a decade of experience using R and in the last five years have developed competencies in Python, Rust, terminal scripting, AWS microservices and their alternatives, ricing my Fedora OS, graph databasing, making strange objects with microcontrollers, a little bit of data hoarding and obsessively reading 90s cyberfeminist tracts about the possibilities of the internet and then, inevitably, getting very sad.
+
+I have published work on Transformations to Sustainability, Commoning, the holes in the Paris Climate Agreement and, in a different life, various bits of poetry, zines, creative writing and essays. 
 
 ------
 
-*Reach me at mdavis@bats.org.uk or at your local loud music venue*
+*Reach me at mdavis@bats.org.uk, radeline17@proton.me, or at your local loud music venue*
 
 ------
 
