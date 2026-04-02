@@ -14,7 +14,7 @@ My primary tech interests are around:
 
 I have over a decade of experience using R and in the last five years have developed competencies in Python, Rust, terminal scripting, AWS microservices and their alternatives, ricing my Fedora OS, graph databasing, making strange objects with microcontrollers, a little bit of data hoarding and obsessively reading 90s cyberfeminist tracts about the possibilities of the internet and then, inevitably, getting very sad.
 
-I have published work on Transformations to Sustainability, Commoning, the holes in the Paris Climate Agreement and, in a different life, various bits of poetry, zines, creative writing and essays. 
+I have published work on Transformations to Sustainability, Commoning, the holes in the Paris Climate Agreement, public data repositories on bat ecology and ecoacoustics and, in a different life, various bits of poetry, zines, creative writing and essays. 
 
 ------
 
