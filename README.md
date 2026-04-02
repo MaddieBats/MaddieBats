@@ -8,7 +8,7 @@ I am the *Senior Science Projects Officer* in the Science team of the **[Bat Con
 My primary tech interests are around:
 * Sound analysis, classification, and archiving
 * Open source development of data engineering tools
-* Open Internet / IndieWeb / FOSS replacements for big tech / never using an LLM oh god no please stop
+* Open Internet / IndieWeb / FOSS replacements for big tech 
 * Privacy and electronic freedom
 * Weird TUIs
 
